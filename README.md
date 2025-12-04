@@ -80,7 +80,7 @@ Make sure all three are ON.
 You can download the bot files in two ways:
 
 🔹 Option 1 — Git Clone (Recommended)
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/iiTzArtin/Ticket-System-Global.git
 
 🔹 Option 2 — Download ZIP
 
@@ -94,7 +94,7 @@ Extract the ZIP file
 
 After entering the project folder, run:
 
-npm i
+```npm i``````npm i``````npm i````npm i``
 
 
 This installs all required packages (like discord.js).
